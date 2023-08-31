@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NYC</string>
+
+    <!--    General Strings-->
+    <string name="string_no_internet">No Internet Connection Found</string>
+    <string name="string_school_details">School details not found.</string>
+</resources>
